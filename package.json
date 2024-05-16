@@ -2,6 +2,9 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Kieran Bradbury",
 	"description": "Practicing with npm and node",
+	"keywords": ["freecodecamp", "practice", "node", "npm"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},

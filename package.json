@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Kieran Bradbury",
+	"description": "Practicing with npm and node",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
